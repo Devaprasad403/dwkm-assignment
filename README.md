@@ -21,4 +21,6 @@ Theory : [Link](https://github.com/Devaprasad403/dwkm-assignment/blob/main/DWKM%
 
 (3) Apply the SVM for breast cancer domain. [Link to The Code](https://github.com/Devaprasad403/dwkm-assignment/blob/main/Breast_Cancer_domain.ipynb)
 
+(4) Apply the outlier detection methods for the telecommunication /retail industry. [Link to The Code](
+
 - Module 5 : 
