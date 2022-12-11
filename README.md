@@ -24,3 +24,4 @@ Theory : [Link](https://github.com/Devaprasad403/dwkm-assignment/blob/main/DWKM%
 (4) Apply the outlier detection methods for the telecommunication /retail industry. [Link to The Code](https://github.com/Devaprasad403/dwkm-assignment/blob/main/Outlier_detection_retail_industry.ipynb)
 
 - Module 5 : 
+(1) Analyze the sentiments and polarize them into positive and negative sentiments for twitter dataset.[Link to The Code]( 
