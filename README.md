@@ -12,7 +12,7 @@ Assignment - 1 [Link](https://github.com/Devaprasad403/dwkm-assignment/blob/main
 
 - Module 2 : 
 
-(3) Evaluate the statistical description for stock market analysis with data visualization.[Link to The Code](https://github.com/Devaprasad403/dwkm-assignment/tree/main/module%202/stock-viz)
+(3) Evaluate the statistical description for stock market analysis with data visualization. [Link to The Code](https://github.com/Devaprasad403/dwkm-assignment/tree/main/module%202/stock-viz)
 
 - Module 3 : 
 
