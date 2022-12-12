@@ -4,7 +4,8 @@ Code for all the questions for the DWKM Course at DSU
 
 
 
-Theory : [Link](https://github.com/Devaprasad403/dwkm-assignment/blob/main/DWKM%20Assignment%20-%201.pdf)
+- Theory : 
+Assignment - 1 [Link](https://github.com/Devaprasad403/dwkm-assignment/blob/main/DWKM%20Assignment%20-%201.pdf)
 
 
  
