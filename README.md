@@ -28,4 +28,4 @@ Assignment - 1 [Link](https://github.com/Devaprasad403/dwkm-assignment/blob/main
 
 (1) Analyze the sentiments into positive and negative for twitter dataset. [Link to The Code](https://github.com/Devaprasad403/dwkm-assignment/blob/main/Sentiment_Analysis_Twitter_datasets.ipynb)
 
-(2) Analyze the sarcasm using clustering approach on twitter dataset. [Link to The code](
+(2) Analyze the sarcasm using clustering approach on twitter dataset. [Link to The code](https://github.com/Devaprasad403/dwkm-assignment/tree/main/Sarcasm%20_detection)
